@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from "../components/layout";
 import Timer from "../components/timer"
-import Particles from 'react-particles-js';
+import Particles from 'react-tsparticles';
 
 const particlesOptions = {
   particles: {
